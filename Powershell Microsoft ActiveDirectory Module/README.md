@@ -4,4 +4,5 @@ You can import this module using `Microsoft.ActiveDirectory.Management.dll` and 
 
 ```
 Import-Module Microsoft.ActiveDirectory.Management.dll
+Import-Module .\ActiveDirectory\ActiveDirectory.psd1
 ```
