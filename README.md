@@ -9,3 +9,6 @@ Tools &amp; TTP's for Active Directory Red Teaming
 - [SharpHound](SharpHound.exe)
 - [SpoolSample](SpoolSample.exe)
 - [KRBRelayx Repo](./krbrelayx/)
+
+## Lab
+- https://docs.google.com/spreadsheets/d/1lpyNRYkShkAlFQJc1Vh-SuxWzMm8fj8ZN08RwCP9lIE
